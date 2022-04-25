@@ -1,0 +1,9 @@
+altair
+boto3
+ccxt
+google
+gspread
+pandas
+regex
+requests
+streamlit = 1.8.1
